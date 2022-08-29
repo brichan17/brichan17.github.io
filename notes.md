@@ -8,7 +8,7 @@ Here, you will find links to selected documents regarding mathematics. The docum
 
 [MAG 1 Notes](MAG1 Algebraic Geometry Notes.pdf)
 
-On June 2022, Dan Murfet and Ken Chan taught an eight week introductory course in algebraic geometry. Central to the course is the notion of a Gröbner basis. These are my typed notes regarding the course. 
+On June 2022, Dan Murfet and Ken Chan taught an eight week introductory course in algebraic geometry called MAG1 (Metauni Algebraic Geometry 1). Central to the course is the notion of a Gröbner basis. These are my typed notes regarding the course. 
 
 # Category Theory
 
