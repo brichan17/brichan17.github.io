@@ -46,11 +46,19 @@ In this document, the form of the R matrix is derived for the six vertex model.
 
 # Linear Algebra
 
+MSc Thesis (Not yet available)
+
+Wedge product matrices are developed as a generalisation to the determinant of a square matrix with entries in a commutative ring. In tandem
+with a method Robert Steinberg used to prove a variant of the Bruhat decomposition, the two ideas were applied to various problems in linear
+algebra. Notably, they were used to generalise the eigenvector-eigenvalue identity and the notion of a quasideterminant in a non-commutative ring. They were also applied to the construction of representatives of two different matrix orbit spaces.
+
 [Matrices invariant under Lambda 2](Lambda 2 Invariant Matrices.pdf)
 
 This document highlights a small, but interesting question arising from the work in my MSc thesis.
 
-(MORE GOES HERE)
+[Eigenvalues of minor matrices](Eigenvalues of Minor Matrices.pdf)
+
+A generalisation of the eigenvector-eigenvalue identity is developed and studied in this document. Again, this relies on material developed in my MSc thesis. 
 
 # Miscellaneous
 
