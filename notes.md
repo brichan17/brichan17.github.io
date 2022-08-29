@@ -6,13 +6,13 @@ Here, you will find links to selected documents regarding mathematics. The docum
 
 # Functional Analysis
 
-[Some notes on functional analysis](Some notes on functional analysis (First time using Latex).pdf)
+[Some notes on functional analysis](Some notes on functional analysis.pdf)
 
-This document marks the first time I used and learnt LaTeX. I first created this document in the middle of 2019. The document comprises of material often found in a first course in functional analysis. 
+This document marks the first time I used and learnt LaTeX. I first created this document in the middle of 2019. The document consists of material usually found in a first course on functional analysis. The creation of this document first sparked my interest in functional analysis. 
 
 [An introduction to operator theory](An introduction to operator theory.pdf)
 
-(INSERT DESCRIPTION HERE)
+This document studies operators on a Hilbert space, beginning with bounded operators on a Hilbert space which is the prototypical example of a C*-algebra. In particular, the z-transform is introduced as a tool to study closed, densely defined operators on a Hilbert space. 
 
 # Linear Algebra
 
