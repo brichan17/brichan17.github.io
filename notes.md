@@ -4,6 +4,12 @@ title: Notes
 ---
 Here, you will find links to selected documents regarding mathematics. The documents are organised by topic and are accompanied by a short description. Please notify me if you find any errors. You can email me by clicking the mail icon at the bottom of this page. 
 
+# Category Theory
+
+[Category theory and internal structures](Category theory and internal structures.pdf)
+
+This document develops the notions of unital, protomodular, and Mal'tsev categories, which generalises particular observations about the categories of monoids, commutative monoids, abelian groups and groups. 
+
 # Functional Analysis
 
 [Some notes on functional analysis](Some notes on functional analysis.pdf)
