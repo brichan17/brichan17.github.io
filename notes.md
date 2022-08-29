@@ -26,6 +26,17 @@ This document marks the first time I used and learnt LaTeX. I first created this
 
 This document studies operators on a Hilbert space, beginning with bounded operators on a Hilbert space which is the prototypical example of a C*-algebra. In particular, the z-transform is introduced as a useful tool to study closed, densely defined operators on a Hilbert space. 
 
+# Integrable systems
+
+[The Ising model](The Ising Model.pdf)
+
+Various aspects of the Ising model are discussed in this document. 
+
+[The R matrix of the six vertex model](The R matrix.pdf)
+
+In this document, the form of the R matrix is derived for the six vertex model. 
+
+
 # Linear Algebra
 
 (TBA)
