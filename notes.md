@@ -2,10 +2,12 @@
 layout: page
 title: Notes
 ---
-# ASS
+Here, you will find links to selected documents in mathematics created by me. The documents are organised by topic and are accompanied by a short description. Please notify me if you find any errors. 
 
-Does this even work?
+# Functional Analysis
 
-Wilkommen Taylor. Have a look at [this](Curriculum Vitae.pdf)
+Have a look at [this](Curriculum Vitae.pdf)
 
-# NUTSACKED ON THE SWITCH
+# Linear Algebra
+
+(TBA)
