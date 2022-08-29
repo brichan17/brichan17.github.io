@@ -40,3 +40,10 @@ In this document, the form of the R matrix is derived for the six vertex model.
 # Linear Algebra
 
 (TBA)
+
+# Miscellaneous
+
+[On a particular integral](On a particular integral.pdf)
+
+This document highlights a (hopefully) interesting method of computing a particular integral. 
+
