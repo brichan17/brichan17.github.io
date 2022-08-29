@@ -4,6 +4,12 @@ title: Notes
 ---
 Here, you will find links to selected documents regarding mathematics. The documents are organised by topic and are accompanied by a short description. Please notify me if you find any errors. You can email me by clicking the mail icon at the bottom of this page. 
 
+# Algebraic Geometry
+
+[MAG 1 Notes](MAG1 Algebraic Geometry Notes.pdf)
+
+On June 2022, Dan Murfet and Ken Chan taught an eight week introductory course in algebraic geometry. Central to the course is the notion of a Gröbner basis. These are my typed notes regarding the course. 
+
 # Category Theory
 
 [Category theory and internal structures](Category theory and internal structures.pdf)
