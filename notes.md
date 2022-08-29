@@ -2,8 +2,10 @@
 layout: page
 title: Notes
 ---
-Lecture notes go here.
+header: ASS
 
 Does this even work?
 
 Wilkommen Taylor. Have a look at [this](Curriculum Vitae.pdf)
+
+header: NUTSACKED
