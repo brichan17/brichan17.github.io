@@ -18,7 +18,7 @@ This document marks the first time I used and learnt LaTeX. I first created this
 
 [An introduction to operator theory](An introduction to operator theory.pdf)
 
-This document studies operators on a Hilbert space, beginning with bounded operators on a Hilbert space which is the prototypical example of a C*-algebra. In particular, the z-transform is introduced as a tool to study closed, densely defined operators on a Hilbert space. 
+This document studies operators on a Hilbert space, beginning with bounded operators on a Hilbert space which is the prototypical example of a C*-algebra. In particular, the z-transform is introduced as a useful tool to study closed, densely defined operators on a Hilbert space. 
 
 # Linear Algebra
 
