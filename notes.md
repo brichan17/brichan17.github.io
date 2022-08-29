@@ -6,7 +6,7 @@ Here, you will find links to selected documents regarding mathematics. The docum
 
 # Functional Analysis
 
-[Some notes on functional analysis](Some notes on functional analysis (First time using Latex).pdf)
+[Some notes on functional analysis](Some notes on functional analysis \(First time using Latex\).pdf)
 
 (INSERT DESCRIPTION HERE)
 
