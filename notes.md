@@ -6,4 +6,4 @@ Lecture notes go here.
 
 Does this even work?
 
-Wilkommen Taylor. Have a look at <href>Curriculum Vitae.pdf</href>
+Wilkommen Taylor. Have a look at [this](Curriculum Vitae.pdf)
