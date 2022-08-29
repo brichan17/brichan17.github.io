@@ -6,4 +6,4 @@ Lecture notes go here.
 
 Does this even work?
 
-Wilkommen Taylor
+Wilkommen Taylor. Have a look at Curriculum Vitae.pdf
