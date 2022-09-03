@@ -56,7 +56,7 @@ algebra. Notably, they were used to generalise the eigenvector-eigenvalue identi
 
 This document highlights a small, but interesting question arising from the work in my MSc thesis.
 
-[Eigenvalues of minor matrices](Eigenvalues of Minor Matrices.pdf)
+[Eigenvalues of minor matrices](Eigenvalues of Minor Matrices V2.pdf)
 
 A generalisation of the eigenvector-eigenvalue identity is developed and studied in this document. Again, this relies on material developed in my MSc thesis. 
 
