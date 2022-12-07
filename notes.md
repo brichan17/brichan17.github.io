@@ -46,7 +46,7 @@ In this document, the form of the R matrix is derived for the six vertex model.
 
 # Linear Algebra
 
-MSc Thesis (Not yet available)
+[MSc Thesis](MSc Thesis Final.pdf)
 
 Wedge product matrices are developed as a generalisation to the determinant of a square matrix with entries in a commutative ring. In tandem
 with a method Robert Steinberg used to prove a variant of the Bruhat decomposition, the two ideas were applied to various problems in linear
