@@ -18,7 +18,7 @@ This document contains a proof of the Snake lemma in an abelian category.
 
 [Category theory and internal structures](Category theory and internal structures.pdf)
 
-This document develops the notions of unital, protomodular, and Mal'tsev categories, which generalises particular observations about the categories of monoids, commutative monoids, abelian groups and groups. 
+This document develops some of the basic notions of category theory with an emphasis on reflexive relations, equivalence relations and internal structures within finitely complete categories. In the final chapter, we briefly define unital and protomodular categories, which generalise particular observations about the categories of monoids, commutative monoids, abelian groups and groups. 
 
 [Yoneda lemma](Yoneda Lemma.pdf)
 
