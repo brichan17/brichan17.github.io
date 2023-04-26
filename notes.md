@@ -24,15 +24,22 @@ This document develops some of the basic notions of category theory with an emph
 
 This document contains a proof of the Yoneda lemma, which is fundamental to category theory. 
 
-# Functional Analysis
-
-[Some notes on functional analysis](Some notes on functional analysis.pdf)
-
-This document marks the first time I used and learnt LaTeX. I first created this document in the middle of 2019. The document consists of material usually found in a first course on functional analysis. The creation of this document first sparked my interest in functional analysis. 
+# C*-algebras
 
 [An introduction to operator theory](An introduction to operator theory.pdf)
 
 This document studies operators on a Hilbert space, beginning with bounded operators on a Hilbert space which is the prototypical example of a C*-algebra. In particular, the z-transform is introduced as a useful tool to study closed, densely defined operators on a Hilbert space. 
+
+
+[Notes on C*-algebras](Notes on C*-algebras.pdf)
+
+This is a set of typed notes summarising the material I have learnt about the theory of C*-algebras. These notes are based upon a variety of different references and are currently unfinished. 
+
+# Functional Analysis
+
+[Some notes on functional analysis](Some notes on functional analysis.pdf)
+
+This document marks the first time I used and learnt LaTeX, in the middle of the year 2019. The document consists of material usually found in a first course on functional analysis.  
 
 # Integrable systems
 
