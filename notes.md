@@ -31,7 +31,7 @@ This document contains a proof of the Yoneda lemma, which is fundamental to cate
 This document studies operators on a Hilbert space, beginning with bounded operators on a Hilbert space which is the prototypical example of a C*-algebra. In particular, the z-transform is introduced as a useful tool to study closed, densely defined operators on a Hilbert space. 
 
 
-[Notes on C*-algebras](Notes on C*-algebras.pdf)
+[Notes on C\*-algebras](Notes on C\*-algebras.pdf)
 
 This is a set of typed notes summarising the material I have learnt about the theory of C*-algebras. These notes are based upon a variety of different references and are currently unfinished. 
 
