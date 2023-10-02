@@ -33,13 +33,14 @@ This document studies operators on a Hilbert space, beginning with bounded opera
 
 [Notes on C\*-algebras](Notes on C*-algebras.pdf)
 
-This is a set of typed notes summarising the material I have learnt about the theory of C*-algebras. These notes are based upon a variety of different references and are currently unfinished. 
+This is a set of typed notes about the theory of C*-algebras. These notes are based upon a variety of different references and are currently unfinished. 
 
 # Functional Analysis
 
 [Some notes on functional analysis](Some notes on functional analysis.pdf)
 
-This document marks the first time I used and learnt LaTeX, in the middle of the year 2019. The document consists of material usually found in a first course on functional analysis.  
+Constructed in 2019 with the initial intent of learning LaTeX, this document consists of material usually found in a first course on functional analysis. I plan on rewriting these notes so that the material is
+better communicated. 
 
 # Integrable systems
 
