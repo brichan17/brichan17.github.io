@@ -33,7 +33,7 @@ This document studies operators on a Hilbert space, beginning with bounded opera
 
 [Notes on C\*-algebras](Notes on C*-algebras.pdf)
 
-This is a set of typed notes about the basic theory of C*-algebras. It begins from the very beginning; assuming that the reader is new to the notion of a C*-algebra.
+This is a set of typed notes about the basic theory of C*-algebras. It serves as an introduction to the theory of C*-algebras, assuming that the reader has not encountered the notion of a C*-algebra before. 
 
 # Functional Analysis
 
