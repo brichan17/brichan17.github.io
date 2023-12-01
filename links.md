@@ -7,6 +7,6 @@ Here, you will find a few links to websites I find useful.
 
 [Arun Ram](http://math.soimeme.org/~arunram/)
 
-[Synaptron](https://synaptron.com.au/index)
+[Synaptron](https://synaptron.com.au/login)
 
 [The Rising Sea](http://therisingsea.org)
