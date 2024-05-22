@@ -10,19 +10,11 @@ Here, you will find links to selected documents regarding mathematics. The docum
 
 On June 2022, Dan Murfet and Ken Chan taught an eight week introductory course in algebraic geometry called MAG1 (Metauni Algebraic Geometry 1). Central to the course is the notion of a Gröbner basis. These are my typed notes regarding the course. 
 
-[Snake lemma](Snake Lemma.pdf)
-
-This document contains a proof of the Snake lemma in an abelian category. 
-
 # Category Theory
 
 [Category theory and internal structures](Category theory and internal structures.pdf)
 
 This document develops some of the basic notions of category theory with an emphasis on reflexive relations, equivalence relations and internal structures within finitely complete categories. In the final chapter, we briefly define unital and protomodular categories, which generalise particular observations about the categories of monoids, commutative monoids, abelian groups and groups. 
-
-[Yoneda lemma](Yoneda Lemma.pdf)
-
-This document contains a proof of the Yoneda lemma, which is fundamental to category theory. 
 
 # C*-algebras
 
@@ -47,10 +39,6 @@ better communicated.
 [The Ising model](The Ising Model.pdf)
 
 Various aspects of the Ising model are discussed in this document. 
-
-[The R matrix of the six vertex model](The R matrix.pdf)
-
-In this document, the form of the R matrix is derived for the six vertex model. 
 
 # Linear Algebra
 
