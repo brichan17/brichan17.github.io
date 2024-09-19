@@ -25,7 +25,11 @@ This document studies operators on a Hilbert space, beginning with bounded opera
 
 [Notes on C\*-algebras](Notes on C*-algebras.pdf)
 
-This is a set of typed notes about the basic theory of C\*-algebras. It serves as an introduction to the theory of C\*-algebras, assuming that the reader has not encountered the notion of a C\*-algebra before. 
+This is a set of typed notes about the basic theory of C\*-algebras. It serves as an introduction to the theory of C\*-algebras, assuming that the reader has not encountered the notion of a C\*-algebra before.
+
+[Examples of six-term exact sequences in K-theory](Examples of six-term exact sequences in K-theory.pdf)
+
+This document contains a few examples of six-term exact sequences associated to short exact sequences of C\*-algebras. 
 
 # Functional Analysis
 
