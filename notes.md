@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 ---
-Here, you will find links to selected documents regarding mathematics. The documents are organised by topic and are accompanied by a short description. Please notify me of any errors.
+Here, you will find links to a selection of typed documents. The documents are organised by topic and are accompanied by a short description. Please notify me of any errors.
 
 # Algebraic Geometry
 
@@ -12,9 +12,13 @@ On June 2022, Dan Murfet and Ken Chan taught an eight week introductory course i
 
 # Category Theory
 
-[Category theory and internal structures](Category theory and internal structures.pdf)
+[Category theory notes](Category Theory C2.7.pdf)
 
-This document develops some of the basic notions of category theory with an emphasis on reflexive relations, equivalence relations and internal structures within finitely complete categories. In the final chapter, we briefly define unital and protomodular categories, which generalise particular observations about the categories of monoids, commutative monoids, abelian groups and groups. 
+These are notes on the University of Oxford's category theory course.
+
+[An introduction to protomodular categories](Category theory broadening project V2.pdf)
+
+These notes provide a short introduction to protomodular categories. Protomodular categories possess an intrinsic notion of a normal subobject, which generalises the notion of a normal subgroup. I initially intended for these notes to contribute towards the broadening requirement for the DPhil degree. However, the requirement to submit a broadening project for each audited undergraduate course was removed after I created these notes. 
 
 # C*-algebras
 
@@ -51,18 +55,3 @@ Various aspects of the Ising model are discussed in this document.
 Wedge product matrices are developed as a generalisation to the determinant of a square matrix with entries in a commutative ring. In tandem
 with a method Robert Steinberg used to prove a variant of the Bruhat decomposition, the two ideas were applied to various problems in linear
 algebra. Notably, they were used to generalise the eigenvector-eigenvalue identity and the notion of a quasideterminant in a non-commutative ring. They were also applied to the construction of representatives of two different matrix orbit spaces.
-
-[Matrices invariant under Lambda 2](Lambda 2 Invariant Matrices.pdf)
-
-This document highlights a small, but interesting question arising from the work in my MSc thesis.
-
-[Eigenvalues of minor matrices](Eigenvalues of Minor Matrices V2.pdf)
-
-A generalisation of the eigenvector-eigenvalue identity is developed and studied in this document. Again, this relies on material developed in my MSc thesis. 
-
-# Miscellaneous
-
-[On a particular integral](On a particular integral.pdf)
-
-This document highlights a (hopefully) interesting method of computing a particular integral. 
-
